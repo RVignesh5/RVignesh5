@@ -5,6 +5,7 @@ I'm Vignesh, a final year BCA student at DRBCCC Hindu College. I have a passion 
 
 ## Skills
 - Python
+- Database
 - C++
 - Perl
 - Java
