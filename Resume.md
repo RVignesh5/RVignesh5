@@ -21,5 +21,5 @@ I am a dedicated and enthusiastic student currently pursuing BCA at DRBCCC Hindu
 
 - Email: the.r.vignesh@gmail.com
 - LinkedIn: www.linkedin.com/in/vignesh-r-06b5b3281
-- GitHub: [Your GitHub Profile URL]
+- GitHub:  github.com/RVignesh5
 
