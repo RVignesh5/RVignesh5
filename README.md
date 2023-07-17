@@ -1,7 +1,7 @@
 # Vignesh
 
 ## About Me
-I'm Vignesh, a final year BCA student at DRBCCC Hindu College. I have a passion for programming and a keen interest in various technologies. My skills include developing applications using Python, C++, Perl, Java, and PHP. I'm also proficient in using Microsoft Office applications for various tasks.
+I'm Vignesh, a final year BCA student at DRBCCC Hindu College. I have a passion for programming and a keen interest in various technologies. My skills include developing applications using Python, MySql, C++, Perl, Java, and PHP. I'm also proficient in using Microsoft Office applications for various tasks.
 
 ## Skills
 - Python
