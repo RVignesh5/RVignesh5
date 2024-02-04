@@ -1,4 +1,4 @@
-<div style="background-color: black; color: white; padding: 20px; border-radius: 8px;">
+# Hey There I'm Vignesh 🧑🏽‍💻
 # 💫 About Me:
 👨🏽‍🎓 I’m  a Final Year Student<br>👯 I’m looking to collaborate on Python & Networking Projects<br>🌱 I’m currently learning Python & Web Technologies<br><br>
 <!-- Add a black background -->
