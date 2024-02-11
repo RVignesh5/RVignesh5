@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  build_linux:
-    runs-on: ubuntu-latest
+  build_windows:
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
       - uses: Platane/snk@master
@@ -25,12 +25,15 @@ jobs:
           force: true
 
   convert_to_gif:
-    runs-on: ubuntu-latest
-    needs: build_linux
+    runs-on: windows-latest
+    needs: build_windows
     steps:
       - uses: actions/checkout@v2
-      - run: apt-get update && apt-get install -y imagemagick
-      - run: convert -delay 100 -loop 0 dist/github-contribution-grid-snake*.svg dist/github-contribution-grid-snake.gif
+      - name: Install Inkscape
+        run: |
+          choco install inkscape
+          RefreshEnv
+      - run: inkscape --export-type=gif --export-filename=dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
       - run: git status
       - name: Push GIF changes
         uses: ad-m/github-push-action@master
