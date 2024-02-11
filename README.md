@@ -40,7 +40,3 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=rvignesh5&icon=0&color=0)](https://visitcount.itsvg.in)
-![snake gif](https://github.com/rvignesh5/rvignesh5/blob/output/github-contribution-grid-snake.gif)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
