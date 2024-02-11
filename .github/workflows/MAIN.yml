@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  build_windows:
-    runs-on: windows-latest
+  build_linux:
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: Platane/snk@master
@@ -24,16 +24,13 @@ jobs:
           branch: master
           force: true
 
-  convert_to_gif:
+  build_windows:
     runs-on: windows-latest
-    needs: build_windows
+    needs: build_linux
     steps:
       - uses: actions/checkout@v2
-      - name: Install Inkscape
-        run: |
-          choco install inkscape
-          RefreshEnv
-      - run: inkscape --export-type=gif --export-filename=dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
+      - name: Convert SVG to GIF
+        run: echo "Conversion step for Windows goes here"
       - run: git status
       - name: Push GIF changes
         uses: ad-m/github-push-action@master
