@@ -8,7 +8,7 @@
 
 
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" height="300"/>
 
 
 # Hey There I'm Vignesh 🧑🏽‍💻
@@ -16,7 +16,7 @@
 👨🏽‍🎓 I’m  a Final Year Student<br>👯 I’m looking to collaborate on Python & Networking Projects<br>🌱 I’m currently learning Python & Web Technologies<br><br>
 <!-- Add a black background -->
 <div style="background-color: black; padding: 20px; border-radius: 8px;">
-<img align="right" height="150" src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif?cid=82a1493bgtzl6cgmt5mgx0pcl71lo3g3nlvkvtqxloi0l3nw&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/veee5_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vigneshr-) 
