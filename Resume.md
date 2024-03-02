@@ -1,25 +1,56 @@
-# Vignesh R
-Student | Aspiring Software Developer]
+# VIGNESH R.
 
-## About Me
-I am a dedicated and enthusiastic student currently pursuing BCA at DRBCCC Hindu College. I have a strong passion for software development and I am eager to learn and grow in this field. I have a solid foundation in OOPs & HTML and I am eager to apply my knowledge and skills to real-world projects.
+📞 +91 9360407044 ⋄ 📍 Avadi, Chennai, India  
+📧 the.r.vignesh@gmail.com ⋄ [LinkedIn](https://www.linkedin.com/in/vigneshr-/) ⋄ [My Portfolio](https://rvignesh5.github.io/Vignesh_Portfolio/)
 
-## Skills
-- Programming Languages: Python /  C++ /  Perl /  Php   /Java
-- Web Development: HTML
-- Database: SQL   /MySQL
-- DataStructures and Algorithms:Arrays/   Linked Lists/Stacks and Queues/Trees and Graphs/Sorting algorithms/Searching algorithms
-## Education
-**BCA** - Madras University
-- Expected Graduation: [April,2025]
+## OBJECTIVE
+BCA final-year student proficient in Python and networking, seeking roles without voice processes.
 
+## EDUCATION
+- **Bachelor of Computer Applications, DRBCCC Hindu College**  
+  Expected 2024  
+  Current CGPA: 8.2
 
- ## Certifications
-- IoT Internship Certificate - IT Expert
-  - Duration: 2 weeks
-  - Description: Completed an intensive internship program focused on Internet of Things (IoT) technologies. Learned about Internet. Earned a certificate for successful completion of the program.
-## Contact Me
-- Email: the.r.vignesh@gmail.com
-- LinkedIn: www.linkedin.com/in/vignesh-r-06b5b3281
-- GitHub:  github.com/RVignesh5
+- **Higher Secondary School, SRM Higher Secondary School**  
+  2020 – 2021  
+  Percentage: 83%
 
+- **Secondary School, SRM Higher Secondary School**  
+  2018 – 2019  
+  Percentage: 70%
+
+## SKILLS
+### Technical Skills
+Python, Web Development, MySQL, IoT
+
+### Soft Skills
+Typist, Content Writing, Teamwork, Time Management
+
+### Languages
+Tamil, English
+
+## INTERNSHIP
+- **IT Expert ™️ (1-week)**
+  - Developed a no-code SOS app during a one-week IoT internship.
+  - Led the innovation of the SOS app, enhancing emergency response efficiency.
+  - Contributed to the project by integrating key features into the SOS app using no-code tools.
+
+- **Elon’AI (1-week)**
+  - Mastered image processing techniques through practical application at Elon Musk's AI company.
+  - Acquired valuable skills in machine learning-based image processing during my stint with Elon's AI firm.
+  - Successfully implemented image processing methodologies as part of my responsibilities at Elon Musk's AI company.
+
+## PROJECTS
+### Drowsiness Detection Guard
+This Python script implements a real-time drowsiness detection system using computer vision techniques. The program utilizes the dlib library for facial landmark detection and calculates the Eye Aspect Ratio (EAR) to determine if a person is showing signs of drowsiness. [Check out here](link_to_project)
+
+### Deep Fake Detection
+This is a web application, built with Flask, allows users to perform deep fake detection on uploaded images using a pre-trained machine learning model. The deep fake detection model is designed to classify images into different facial expression categories. [Check out here](link_to_project)
+
+## EXTRA-CURRICULAR ACTIVITIES
+- Actively Volunteered for NSS in a hospital setting, actively involved in recording and organizing patient information.
+- Active volleyball player contributing to team dynamics, securing victory in the inter-departmental competition with teamwork and skill.
+
+## CERTIFICATIONS
+- Successfully completed the introduction to deep learning program at Infosys Springboard.
+- Completed the machine learning in image processing certification program at Elon Musk's AI.
