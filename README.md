@@ -8,7 +8,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3050354/screenshots/14646894/media/1f31948afd5401c44d4bae934f07641a.gif" height="500"/>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/3050354/screenshots/14646894/media/1f31948afd5401c44d4bae934f07641a.gif" height="300"/>
 
 
 # Hey There I'm Vignesh 🧑🏽‍💻
